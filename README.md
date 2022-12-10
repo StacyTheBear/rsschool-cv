@@ -1,1 +1,1 @@
-# rsschool-cv
+https://StacyTheBear.github.io/rsschool-cv/cv
