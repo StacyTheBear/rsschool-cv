@@ -1,9 +1,10 @@
 # Anastasiya Miadzvedz
-## Contacts:
+![my photo](https://avatars.githubusercontent.com/u/119749119?s=400&v=4)
+## Contacts
 - __e-mail:__ anastasiya0medved@gmail.com
 - __telegram:__ @stacyge
 - __discord:__ StacyTheBear
-## About me:
+## About me
 I am a _self-motivated_, _reliable_ and _responsible_ person. I am always _enthusiastic to learn_ and undertake new challenges.
 
 I have developed _good planning & organizational skills_ and am _confident working independently or as part of a team_. I am _flexible_ regarding working hours and conditions.
@@ -22,3 +23,11 @@ return Array(n).fill(a).map((el,ind) => el + ind*d).join(', ');
 ```
 ## Previous experience
 [My first GitHub project for RSSchool](https://StacyTheBear.github.io/rsschool-cv/cv)
+## Education
+Minsk State Linguistic University (2018-2020)
+
+Linguistic support of intercultural communications(public relations)
+## Languages
+- English B2+
+- Russian native
+- Polish A2
