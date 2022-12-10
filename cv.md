@@ -3,7 +3,7 @@
 ## Contacts
 - __e-mail:__ anastasiya0medved@gmail.com
 - __telegram:__ @stacyge
-- __discord:__ StacyTheBear
+- __discord:__ medvedk1na (@StacyTheBear)
 ## About me
 I am a _self-motivated_, _reliable_ and _responsible_ person. I am always _enthusiastic to learn_ and undertake new challenges.
 
